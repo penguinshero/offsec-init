@@ -53,3 +53,4 @@ sudo apt install -y \
     smtp-user-enum \
     wafw00f \
     stow \
+    default-mysql-client \
